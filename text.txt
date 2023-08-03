@@ -1,0 +1,21 @@
+A inteligência artificial (IA) é um conjunto de tecnologias que permitem aos computadores executar uma variedade de funções avançadas, incluindo a capacidade de ver, entender e traduzir idiomas falados e escritos, analisar dados, fazer recomendações e muito mais. 
+
+Serve para:
+
+- Automação
+A IA pode automatizar fluxos de trabalho e processos ou trabalhar de forma independente e autônoma de uma equipe humana. Por exemplo, a IA pode ajudar a automatizar aspectos da segurança cibernética monitorando e analisando continuamente o tráfego de rede. Da mesma forma, uma fábrica inteligente pode ter dezenas de tipos diferentes de IA em uso, como robôs que usam a visão computacional para navegar no chão ou inspecionar produtos em defeitos, criar gêmeos digitais ou usar reais análises de tempo para medir a eficiência e os resultados.
+
+- Reduzir o erro humano
+A IA pode eliminar erros manuais no processamento de dados, análise, montagem em tarefas e outras tarefas usando automação e algoritmos que seguem os mesmos processos toda vez.
+
+- Elimine tarefas repetitivas
+A IA pode ser usada para executar tarefas repetitivas, liberando capital humano para trabalhar em problemas de maior impacto. A IA pode ser usada para automatizar processos, como a verificação de documentos, a transcrição de chamadas telefônicas ou a resposta a perguntas simples de clientes, como "Que horas você fecha?" Os robôs costumam ser usados para realizar tarefas monótonas, sujas ou perigosas no lugar de uma pessoa. 
+
+- Rápido e preciso
+A IA pode processar mais informações mais rapidamente do que um humano, encontrando padrões e descobrindo relações entre dados que os humanos não conseguem.
+
+- Disponibilidade infinita
+A IA não é limitada à hora do dia, à necessidade de quebras ou a outros ônus humanos. Quando executado na nuvem, a IA e o machine learning podem estar "sempre ativados", trabalhando continuamente nas tarefas atribuídas a eles. 
+
+- Pesquisa e desenvolvimento acelerados
+A capacidade de analisar grandes quantidades de dados rapidamente pode levar a inovações aceleradas em pesquisa e desenvolvimento. Por exemplo, a IA foi usada em modelos preditivos de possíveis tratamentos farmacêuticos ou para quantificar o genoma humano. 
